@@ -46,7 +46,7 @@ NexT.motion.middleWares = {
       sequence.push({
         targets,
         opacity: 1,
-        top    : 0,
+        top    : 31,
         deltaT : sequenceQueue ? '-=200' : '-=0'
       });
     }
