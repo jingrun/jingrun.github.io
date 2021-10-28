@@ -231,7 +231,7 @@ a {
 }
 a:hover {
   border-bottom-color: var(--link-hover-color);
-  color: var(--link-hover-color);
+  color: #87daff;
 }
 iframe,
 img,
@@ -1281,12 +1281,12 @@ pre code {
 .site-title {
   font-family: Lato, 'PingFang SC', 'Microsoft YaHei', sans-serif;
   font-size: 1.375em;
-  font-weight: normal;
+  font-weight: bold;
   margin: 0;
 }
 .site-subtitle {
   color: #ddd;
-  font-size: 0.8125em;
+  font-size: 20px;
   margin: 10px 0;
 }
 .use-motion .site-title,
@@ -1658,7 +1658,7 @@ pre code {
 }
 .footer {
   color: #87daff;
-  font-size: 1em;
+  font-size: 1.2em;
   padding: 20px 0;
 }
 .footer.footer-fixed {
